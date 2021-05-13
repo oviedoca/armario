@@ -32,27 +32,25 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Print the octocat.
         run: |
-          echo .------------------------------------------------------------------------------.
-          echo |                             .mmMMMMMMMMMMMMMmm.                              |
-          echo |                         .mMMMMMMMMMMMMMMMMMMMMMMMm.                          |
-          echo |                      .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.                       |
-          echo |                    .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                     |
-          echo |                  .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                   |
-          echo |                 MMMMMMMM'  `"MMMMM"""""""MMMM""`  'MMMMMMMM                  |
-          echo |                MMMMMMMMM                           MMMMMMMMM                 |
-          echo |               MMMMMMMMMM:                         :MMMMMMMMMM                |
-          echo |              .MMMMMMMMMM                           MMMMMMMMMM.               |
-          echo |              MMMMMMMMM"                             "MMMMMMMMM               |
-          echo |              MMMMMMMMM                               MMMMMMMMM               |
-          echo |              MMMMMMMMM                               MMMMMMMMM               |
-          echo |              MMMMMMMMMM                             MMMMMMMMMM               |
-          echo |              `MMMMMMMMMM                           MMMMMMMMMM`               |
-          echo |               MMMMMMMMMMMM.                     .MMMMMMMMMMMM                |
-          echo |                MMMMMM  MMMMMMMMMM         MMMMMMMMMMMMMMMMMM                 |
-          echo |                 MMMMMM  'MMMMMMM           MMMMMMMMMMMMMMMM                  |
-          echo |                  `MMMMMM  "MMMMM           MMMMMMMMMMMMMM`                   |
-          echo |                    `MMMMMm                 MMMMMMMMMMMM`                     |
-          echo |                      `"MMMMMMMMM           MMMMMMMMM"`                       |
-          echo |                         `"MMMMMM           MMMMMM"`                          |
-          echo |                             `""M           M""`                              |
-          echo '------------------------------------------------------------------------------'
+          echo                              .mmMMMMMMMMMMMMMmm.                              
+          echo                          .mMMMMMMMMMMMMMMMMMMMMMMMm.                          
+          echo                       .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.                       
+          echo                     .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                     
+          echo                   .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.                   
+          echo                  MMMMMMMM'  `"MMMMM"""""""MMMM""`  'MMMMMMMM                  
+          echo                 MMMMMMMMM                           MMMMMMMMM                 
+          echo                MMMMMMMMMM:                         :MMMMMMMMMM                
+          echo               .MMMMMMMMMM                           MMMMMMMMMM.               
+          echo               MMMMMMMMM"                             "MMMMMMMMM               
+          echo               MMMMMMMMM                               MMMMMMMMM               
+          echo               MMMMMMMMM                               MMMMMMMMM               
+          echo               MMMMMMMMMM                             MMMMMMMMMM               
+          echo               `MMMMMMMMMM                           MMMMMMMMMM`               
+          echo                MMMMMMMMMMMM.                     .MMMMMMMMMMMM                
+          echo                 MMMMMM  MMMMMMMMMM         MMMMMMMMMMMMMMMMMM                 
+          echo                  MMMMMM  'MMMMMMM           MMMMMMMMMMMMMMMM                  
+          echo                   `MMMMMM  "MMMMM           MMMMMMMMMMMMMM`                   
+          echo                     `MMMMMm                 MMMMMMMMMMMM`                     
+          echo                       `"MMMMMMMMM           MMMMMMMMM"`                       
+          echo                          `"MMMMMM           MMMMMM"`                          
+          echo                              `""M           M""`                              
